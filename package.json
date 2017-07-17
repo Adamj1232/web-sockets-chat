@@ -1,0 +1,25 @@
+{
+  "name": "web-sockets-tut",
+  "version": "1.0.0",
+  "description": "websockets-chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamj1232/web-sockets-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adamj1232/web-sockets-chat/issues"
+  },
+  "homepage": "https://github.com/Adamj1232/web-sockets-chat#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "socket.io": "^2.0.3"
+  }
+}
